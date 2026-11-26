@@ -1,0 +1,16 @@
+{
+  "name": "老板用人选人十九讲 · 学习系统",
+  "short_name": "十九讲",
+  "description": "老板用人选人十九讲个人知识学习系统：阅读、知识点、复习、测试、实战、学习数据",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f7fa",
+  "theme_color": "#1e3a5f",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
